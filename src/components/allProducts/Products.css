@@ -1,0 +1,22 @@
+
+.main-products{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.card{
+    max-width: 350px;
+}
+.card img{
+    height: 390px;
+    width: 350px;
+
+}
+.card-body p{
+    letter-spacing: 2px;
+}
+.cart-info h2,p{
+    letter-spacing: 2px;
+}
+.cart-info p{
+    font-size: 18px;
+}

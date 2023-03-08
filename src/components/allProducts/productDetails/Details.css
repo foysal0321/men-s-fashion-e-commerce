@@ -1,0 +1,40 @@
+.top-details{
+     background-color: rgba(241, 240, 240, 0.353);
+}
+.main-details{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.main-details img{
+    width: 470px;
+    height: 450px;
+}
+
+.main-details p{
+    margin: 12px;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+.main-details h1{
+    margin: 12px;
+    letter-spacing: 2px;
+    font-size: 22px;
+}
+.orginal-price span{
+    text-decoration: line-through;
+}
+.details-info{
+   width: 430px;
+  
+}
+
+/* media */
+@media screen and (max-width:570px) {
+    .main-details img{
+        max-width: 330px;
+        margin: 0 auto;
+
+    }
+}

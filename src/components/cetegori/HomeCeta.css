@@ -1,0 +1,70 @@
+.ceta-info h2{
+    font-size: 26px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}
+.ceta-info span{
+    color: rgba(238, 145, 13, 0.709);
+}
+.ceta-info a{
+    margin: 20px ;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: 800;
+}
+.ceta-info a:hover{
+    color: rgba(238, 145, 13, 0.709);
+    transition: .4s;
+}
+.cetaimgs{
+    max-width: 1250px;
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cetaimgs button{
+    color: rgba(255, 255, 255, 0.783);;   
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+.cetaimgs h1{
+    letter-spacing: 3px;
+    margin-top: 190px;
+   font-size: 27px;
+}
+.cetaimgs span{
+     color: rgba(252, 193, 110, 0.874);
+}
+.ceta1,.ceta2,.ceta3{
+    width: 390px;
+    height: 390px;
+    margin: 10px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.879);
+}
+
+
+.ceta1{
+      background: linear-gradient(rgba(0,0,0,0.30),rgba(0,0,0,0.60)), url('https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw9b1d20fa/hi-res/SEF0270NAV_MODEL_FRONT.jpg?sw=430&sh=538&sm=fit&q=42');
+      width: 390px;
+      height: 390px;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ceta2{
+      background: linear-gradient(rgba(0,0,0,0.22),rgba(0,0,0,0.50)), url('https://cdn.shopify.com/s/files/1/0123/5065/2473/products/BM8_BM17054.630TNN_NavyN1_0200_700x.jpg?v=1667317233');
+      width: 390px;
+      height: 390px;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ceta3{
+      background: linear-gradient(rgba(0,0,0,0.12),rgba(0,0,0,0.70)), url('https://www.uniformwares.com/wp-content/uploads/2022/02/mens-watches.jpg');
+      width: 390px;
+      height: 390px;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

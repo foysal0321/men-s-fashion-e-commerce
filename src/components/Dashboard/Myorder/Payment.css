@@ -1,0 +1,16 @@
+.payment{
+    max-width: 400px;
+    margin: 0 auto;
+}
+.payment h3{
+    letter-spacing: 3px;
+}
+.payment span{
+    color: rgb(233, 149, 38);
+}
+.payment h5{
+    letter-spacing: 3px;
+}
+.payment .form{
+    max-width: 400px;
+}

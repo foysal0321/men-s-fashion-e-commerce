@@ -1,0 +1,43 @@
+
+
+
+.logos{
+    max-width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-name span{
+    letter-spacing: 2px;
+    font-size: 21px;
+    color: white;
+}
+.footer-name p{
+    letter-spacing: 2px;
+    line-height: 25px;
+    color: rgb(231, 230, 230);
+}
+.logos img{
+    width: 60px;
+    height: 30px;
+    margin: 12px;
+}
+.links a{
+    letter-spacing: 1px;
+    margin: 5px;
+    color: rgb(231, 230, 230);
+}
+.links a:hover,.social a:hover{
+     color: rgb(249, 174, 69);
+     transition: .4s;
+}
+.social{
+    display: flex;
+    flex-wrap: wrap;
+}
+.social a{
+    font-size: 20px;
+    color: rgb(231, 230, 230);
+}
+.formall,.last-textt{
+    color: rgb(231, 230, 230);
+}

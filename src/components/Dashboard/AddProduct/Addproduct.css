@@ -1,0 +1,14 @@
+.add-item{
+    background-color: rgb(252, 252, 252);
+}
+.form span{
+    font-size: 14px;
+    font-weight: 600;
+}
+.form {
+    max-width: 690px;
+    margin: 0 auto;
+}
+.form button{
+   width: 90%;
+}

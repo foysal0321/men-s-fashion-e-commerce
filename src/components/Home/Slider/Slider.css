@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poiret One', cursive;
+    font-weight: 600;
+}
+.item1{
+    width: 100%;
+    height: 112vh;
+    background: linear-gradient(rgba(0,0,0,0.82),rgba(0,0,0,0.60)), url('https://freezone.com.bd/wp-content/uploads/2022/11/istockphoto-1295386280-612x612-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item2{
+    width: 100%;
+    height: 112vh;
+    background: linear-gradient(rgba(0,0,0,0.80),rgba(0,0,0,0.60)), url('https://images.squarespace-cdn.com/content/5437f300e4b01983f004f8c4/1556637970810-BZTJKJTRK6GUGE5PS2TF/blur-boutique-close-up-404171.jpg?format=1500w&content-type=image%2Fjpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item3{
+    width: 100%;
+    height: 112vh;
+    background: linear-gradient(rgba(0,0,0,0.80),rgba(0,0,0,0.60)), url('https://st2.depositphotos.com/1001951/11028/i/600/depositphotos_110289582-stock-photo-confident-handsome-man-with-beard.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icon a{
+    color: rgba(255, 255, 255, 0.479);
+   font-weight: 200;
+    font-size: 32px;
+    
+}
+.header{
+    height: 60px;
+    width: 100%;
+    margin: 49px auto;
+}
+.header .hr{
+    width: 300px;
+    margin: 190px auto;
+    background-color: rgba(252, 193, 110, 0.522);;
+    text-align: center;
+}
+.header-info span{
+    font-size: 20px;
+    color: rgba(252, 193, 110, 0.807);
+}
+.num-email{
+  color: rgb(199, 199, 199);
+  letter-spacing: 1px;
+}
+.num-email .email{
+    font-size: 18px;
+}
+.logo-name p{
+ letter-spacing: 5px;
+ color: rgba(252, 193, 110, 0.807);
+}
+.logo-name img{
+    width: 300px; 
+}
+.logo-name h1{
+    letter-spacing: 2px;
+    color: rgba(255, 255, 255, 0.908);
+}
+.cart{
+    color: rgb(199, 199, 199);
+}
+.cart button{
+    color: rgb(199, 199, 199);
+    letter-spacing: 3px;
+}
+/* slide-text */
+.slide-text{
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+.slide-text h1{
+    font-size: 47px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    font-weight: 700;
+}
+.slide-text span{
+    color: rgba(252, 193, 110, 0.807);
+}
+.slide-text button{
+    letter-spacing: 3px;
+}

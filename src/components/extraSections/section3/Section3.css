@@ -1,0 +1,27 @@
+.main-anather3{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.70)), url('https://i.pinimg.com/736x/6c/aa/e9/6caae90a55af54a9278b320e055fe7a0--shirt-maker-haberdashery.jpg');
+    height: 360px;
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+.anather-info{
+    color: white;
+}
+.anather-info h1{
+    font-size: 45px;
+    letter-spacing: 3px;
+    font-weight: 800;
+    padding: 5px;
+}
+.anather-info p{
+    color: rgba(244, 174, 77, 0.79);
+    letter-spacing: 2px;
+    font-size: 18px;
+    padding: 5px;
+}

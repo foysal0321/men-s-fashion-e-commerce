@@ -1,0 +1,28 @@
+.signup h3{
+    letter-spacing: 3px;
+}
+.signup label{
+   letter-spacing: 2px;
+}
+.signup input{
+    letter-spacing: 2px;
+    color: black;
+    font-size: 16px;
+    margin: 2px;
+}
+signup input{
+    width: 600px;
+}
+.signup select{
+letter-spacing: 2px;
+
+}
+.signup button{
+  letter-spacing: 2px;
+}
+.last-text{
+    letter-spacing: 2px;
+}
+.error{
+    letter-spacing: 2px;
+}

@@ -1,0 +1,72 @@
+
+
+/* .swiper{
+    osition: relative;
+    height: 100%;
+    width: 100%;
+    
+  }
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+   */
+  /* .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  } */
+/* .testi{
+    width: 100%;
+    height: 800px;
+
+ color: white;
+   display: none;
+
+  } */
+.testi {
+    height: 70vh;
+    width: 100%;
+ background: linear-gradient(rgba(0,0,0,0.70),rgba(0,0,0,0.80)), url('https://img.freepik.com/premium-photo/client-studio-tailor-his-workshop-handsome-bearded-fashion-man-classical-costume-suit-man-custom-tailored-suit-presenting-tailored-tuxedo-man-clothing-boutique-man-with-suit_474717-31386.jpg?w=2000');
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+  }
+  .testi-info{
+    color: #fff;
+    max-width: 600px;
+    margin: 0px auto;
+    text-align: center;
+  }
+  .testi-info .comma{
+    color: rgba(251, 191, 108, 0.711);
+    text-align: center;
+    width: 50px;
+    margin: 0 auto;
+    font-size: 25px;
+  }
+  .testi-info h1{
+    margin-top: 10px;
+    font-size: 30px;
+    letter-spacing: 6px;
+  }
+  .testi-info .pera{
+    line-height: 30px;
+    letter-spacing: 1px;
+  }
+  .testi-info .name{
+    font-size: 12px;
+    letter-spacing: 4px;
+    color: rgba(251, 191, 108, 0.711);
+  }

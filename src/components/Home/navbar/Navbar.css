@@ -1,0 +1,36 @@
+hr{
+  border-color: rgba(255, 255, 255, 0.14);
+}
+.navbar1{
+    max-width: 760px;
+    margin: 30px auto;
+    ackground-color: brown;
+    osition: fixed;
+}
+.small-nav{
+    width: 100%;
+    background-color: rgba(23, 23, 23, 0.935);
+}
+.small-nav a{
+    margin: 8px;
+}
+.navbar label{
+    color: rgba(255, 255, 255, 0.781);
+}
+.list a{
+    margin: 6px;
+    letter-spacing: 1px;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.703);
+}
+.list a span{
+    color: rgba(189, 188, 188, 0.842);
+}
+.list .active{
+    color: rgba(252, 193, 110, 0.807);
+}
+.list a:hover{
+    color: rgba(252, 193, 110, 0.807);
+    transition: .4s;
+}

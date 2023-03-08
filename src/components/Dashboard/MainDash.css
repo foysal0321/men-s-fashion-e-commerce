@@ -1,0 +1,11 @@
+.drawer-side ul a{
+    margin: 10px;
+    text-align: center;
+   letter-spacing: 1px;
+   text-decoration: dashed;
+   font-size: 18px;
+}
+ul a:hover{
+    color: rgba(252, 193, 110, 0.807);
+    transition: .4s;
+}

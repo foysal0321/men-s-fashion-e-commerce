@@ -1,0 +1,31 @@
+
+.main-contact{
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+.imgs{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+
+}
+
+.mapouter iframe{
+    height: 450px;
+     width: 260px;
+}
+.contact-info{
+    max-width: 550px;
+}
+.contact-info h1{
+    font-size: 34px;
+    letter-spacing: 3px;
+    font-weight: 800;
+}
+.contact-info p{
+    letter-spacing: 1px;
+    font-size: 18px;
+}

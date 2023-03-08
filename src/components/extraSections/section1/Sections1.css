@@ -1,0 +1,80 @@
+.section1-info{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.section1-info h1{
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+.section1-info span{
+    color: rgba(252, 193, 110, 0.807);
+}
+.section1-info p{
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.main-imgs{
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.first-img h1{
+    color: rgba(255, 255, 255, 0.791);
+    font-size: 29px;
+    letter-spacing: 9px;
+    text-align: center;
+   margin-top: 650px;
+}
+.first-img{
+    background: linear-gradient(rgba(0,0,0,0.16),rgba(0,0,0,0.10)), url('https://i.pinimg.com/736x/94/69/ec/9469ec7667bf4777b51635054b667825.jpg');
+    width: 530px;
+    height: 740px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: 10px;
+}
+.p1-img{
+    background: linear-gradient(rgba(0,0,0,0.26),rgba(0,0,0,0.10)), url('https://manofmany.com/wp-content/uploads/2020/09/business-casual-blazer.jpg');
+    width: 350px;
+    height: 360px;
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin: 10px;
+}
+.p2-img{
+    background: linear-gradient(rgba(0,0,0,0.26),rgba(0,0,0,0.20)), url('https://direct.asda.com/on/demandware.static/-/Library-Sites-ASDAShared/default/dwb1840417/George-assets/images/mens-uk_tier1_moduleA_block1_200223_asset1_mb_v1.jpg');
+    width: 350px;
+    height: 360px;
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin: 10px;
+}
+.end-img{
+    background: linear-gradient(rgba(0,0,0,0.10),rgba(0,0,0,0.30)), url('https://cdn.luxe.digital/media/20230111151119/best-luxury-watch-brands-ranking-2023-luxe-digital.jpg');
+    max-width: 723px;
+    height: 360px;
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin: 10px;
+}
+.p1-img h1,.p2-img h1{
+    font-size: 23px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-top: 300px;
+    color: rgb(238, 238, 238);
+}
+.end-img{
+    max-width: 723px;
+}
+.end-img h1{
+    font-size: 23px;
+    letter-spacing: 5px;
+    text-align: center;
+    padding-top: 300px;
+    color: rgb(238, 238, 238);
+}
